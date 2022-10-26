@@ -1,0 +1,22 @@
+.home {
+    background: radial-gradient(circle at top left, #00798c, #30638e, #003d5b );
+    width: 100vmax;
+    height: 100vh;
+    padding-top: 200px;
+}
+.header {
+    background-color: #e6ebe028;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding: 20px;
+}
+
+.brand{
+    font-size: 60px;
+}
+
+.ltbrand{
+    font-size: 30px;
+    font-weight: bolder;
+}
