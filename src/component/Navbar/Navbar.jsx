@@ -39,6 +39,11 @@ function Navbar (){
                             Search
                         </Link>
                     </li>                    
+                    <li className='nav-item'>
+                        <Link to='/about' className='nav-link'>
+                            About
+                        </Link>
+                    </li>                    
                     <li className='nav-btn'>
                         {button ? (
                             <Link to='/login' className="btn-link">
