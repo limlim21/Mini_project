@@ -1,0 +1,22 @@
+.home {
+    background-color: #e6ebe0;
+    width: 100vmax;
+    height: 100vh;
+    padding-top: 200px;
+}
+.header {
+    background-color: #2b2c297e;
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    text-align: left;
+    padding: 20px;
+}
+
+.brand{
+    font-size: 60px;
+}
+
+.brandlt{
+    font-size: 30px;
+    font-weight: bolder;
+}
