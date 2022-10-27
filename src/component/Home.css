@@ -1,13 +1,13 @@
 .home {
-    background: radial-gradient(circle at top left, #00798c, #30638e, #003d5b );
+    background-color: white;
     width: 100vmax;
     height: 100vh;
     padding-top: 200px;
 }
 .header {
-    background-color: #e6ebe028;
+    background-color: #2b2c297e;
     font-family: 'Poppins', sans-serif;
-    color: rgb(0, 0, 0);
+    color: whitesmoke;
     text-align: left;
     padding: 20px;
 }
@@ -16,7 +16,7 @@
     font-size: 60px;
 }
 
-.ltbrand{
+.brandlt{
     font-size: 30px;
     font-weight: bolder;
 }
